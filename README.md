@@ -8,3 +8,8 @@ I'm currently working with and passionate about the following technologies (amon
 - [TailwindCSS](https://tailwindcss.com/)
 - [MySql](https://www.mysql.com/)
 - [Nuxt](https://nuxt.com/)
+
+📫 Contact Me
+📧 Email: aberisha00@outlook.com
+
+📞 Phone: +383 48 561 133
