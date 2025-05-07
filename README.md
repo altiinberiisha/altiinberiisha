@@ -13,6 +13,6 @@ I'm currently working with and passionate about the following technologies (amon
 
 📫 Contact Me
 
-📧 Email: aberisha00@outlook.com
+📧 Email: aberisha00@icloud.com
 
 📞 Phone: +383 48 561 133
